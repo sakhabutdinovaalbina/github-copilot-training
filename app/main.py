@@ -61,7 +61,7 @@ async def generate_productivity_report() -> ProductivityReport:
 app = FastAPI(title="Productivity Reporting System")
 
 @app.get("/status")
-def get_status():
+def get_status()
     return {"status": "ok"}
 
 
