@@ -1,0 +1,1 @@
+#create prompt to write tests for the selected code snippets. it should be a test prompt that explains the code and then generates tests for it. the tests should be in pytest format and use httpx.AsyncClient to test the API endpoints. the prompt should also include instructions on how to run the tests.
