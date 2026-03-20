@@ -42,7 +42,7 @@
 ## Agent Behavior Rules
 - Generated tests must follow the rules above.
 - Place files only under `tests/` and do not create files outside `tests/`.
-- Include happy path, validati on, error-condition, and type-checking tests.
+- Include happy path, validation, error-condition, and type-checking tests.
 
 ## Coverage
 - Check coverage with `uv run pytest --cov=app tests/`.
